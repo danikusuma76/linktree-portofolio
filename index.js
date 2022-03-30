@@ -6,11 +6,6 @@ const links =[
     
     },
     {
-        label :"Whatsapp",
-        link :"https://wa.me/6289523677484",
-    
-    },
-    {
         label :"Github",
         link :"https://github.com/danikusuma76",
     
