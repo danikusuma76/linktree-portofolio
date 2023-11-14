@@ -20,6 +20,11 @@ const links =[
         link :"https://linkedin.com/in/dani-kusuma-aji-a52935208",
     
     },
+    {
+        label :"OnlyFans",
+        link :"https://linkedin.com/in/dani-kusuma-aji-a52935208",
+    
+    },
 ];
 const btnContainer = document.getElementById("btn-container");
 
