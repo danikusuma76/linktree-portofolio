@@ -22,7 +22,7 @@ const links =[
     },
     {
         label :"OnlyFans",
-        link :"",
+        link :"https://onlyfans.com/daniku4236",
     
     },
 ];
