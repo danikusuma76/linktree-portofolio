@@ -20,12 +20,7 @@ const links =[
         link :"https://linkedin.com/in/dani-kusuma-aji-a52935208",
     
     },
-    {
-        label :"OnlyFans",
-        link :"https://onlyfans.com/daniku4236",
-    
-    },
-];
+  ];
 const btnContainer = document.getElementById("btn-container");
 
 for (let i = 0; i < links.length; i++) {
